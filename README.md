@@ -5,7 +5,7 @@ This is a collection of reusable regular expressions.
 
 [![NPM](https://nodei.co/npm/reu.png)](https://nodei.co/npm/reu/)
 
-[![bitHound Score](https://www.bithound.io/github/DamonOehlman/reu/badges/score.svg)](https://www.bithound.io/github/DamonOehlman/reu) 
+[![Build Status](https://img.shields.io/travis/DamonOehlman/reu.svg?branch=master)](https://travis-ci.org/DamonOehlman/reu) [![bitHound Score](https://www.bithound.io/github/DamonOehlman/reu/badges/score.svg)](https://www.bithound.io/github/DamonOehlman/reu) 
 
 ## Why?
 
