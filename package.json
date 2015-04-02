@@ -1,7 +1,7 @@
 {
   "name": "reu",
   "version": "1.0.0",
-  "description": "Reusable Regular Expressions",
+  "description": "Reusable Regular Expressions (for node and browserify)",
   "main": "index.js",
   "scripts": {
     "test": "node test/all.js",
