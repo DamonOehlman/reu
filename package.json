@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/DamonOehlman/reu/issues"
   },
-  "homepage": "https://github.com/DamonOehlman/reu"
+  "homepage": "https://github.com/DamonOehlman/reu",
+  "devDependencies": {
+    "tape": "^3.5.0"
+  }
 }
