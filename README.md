@@ -20,7 +20,9 @@ you require:
 
 ### `reu/ip`
 
-A regular expression that will match both IPv4 and IPv6 addresses.
+A regular expression that will match both IPv4 and IPv6 addresses.  This is a modified
+regex (remove hostname matching) that was implemented by @Mikulas in
+[this stackoverflow answer](http://stackoverflow.com/a/9209720/96656).
 
 ### `reu/newline`
 
