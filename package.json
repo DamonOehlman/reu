@@ -1,6 +1,6 @@
 {
   "name": "reu",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Reusable Regular Expressions (for node and browserify)",
   "main": "index.js",
   "scripts": {
